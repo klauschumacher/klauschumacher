@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## About me:
 
-I'm a 37 years old Software Engineering, programming sice I was 35. :smile:
+I'm a 38 years old Software Engineering, programming sice I was 35. :smile:
 
 I Love code and read Anime, I like too much to discover new technologies and dive deep in solving problems.
 
